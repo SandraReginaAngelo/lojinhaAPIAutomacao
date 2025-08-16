@@ -15,9 +15,8 @@ Testes para validar as partições de equivalência relacionadas ao valor do pro
 
 
 
-Sempre utilizamos a notação Before Each para o token que será   
+Sempre utilizo a notação Before Each para o token que será   
 utilizado posteriormente no s métodos de teste.  
-Armazenamos os dados que são enviados para a API através do uso de classes POJO.    
-Criamos dados iniciais através do uso de classe Data Factory para
+Armazeno os dados que são enviados para a API através do uso de classes POJO.    
+Crio dados iniciais através do uso de classe Data Factory para
 facilitar a    criação e controle dos mesmos.
-Nesse projeto fazemos uso do JUnit 5, o que nos dá a possibilidade de usar a anotação DisplayName para dar descrições em português para nossos testes.
